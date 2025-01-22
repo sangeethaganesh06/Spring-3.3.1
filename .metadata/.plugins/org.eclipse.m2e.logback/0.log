@@ -1,0 +1,10 @@
+2025-01-22 13:49:49,136 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-01-22 13:50:28,263 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.eazybytes:example_16:1.0-SNAPSHOT @ C:\Users\Java\Desktop\sangeetha\spring-3.3.1\example_16\pom.xml.
+2025-01-22 13:50:31,302 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-22 13:50:31,327 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Java\Desktop\sangeetha\spring-3.3.1\example_16\src\main\resources
+2025-01-22 13:50:31,335 [Worker-5: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-22 13:50:31,357 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Java\Desktop\sangeetha\spring-3.3.1\example_16\src\test\resources
+2025-01-22 13:50:33,433 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-22 13:50:33,452 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Java\Desktop\sangeetha\spring-3.3.1\example_16\src\main\resources
+2025-01-22 13:50:33,459 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-01-22 13:50:33,485 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Java\Desktop\sangeetha\spring-3.3.1\example_16\src\test\resources
